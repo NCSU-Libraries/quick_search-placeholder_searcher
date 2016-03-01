@@ -1,0 +1,4 @@
+require "quicksearch_placeholder_searcher/engine"
+
+module QuicksearchPlaceholderSearcher
+end

@@ -1,0 +1,11 @@
+en:
+  placeholder_search:
+    display_name: "Placeholder"
+    short_display_name: "article"
+    search_form_placeholder: "Search for articles from placeholder"
+    module_callout: "Search for articles from placeholder"
+    error_service_message: "searching articles from placeholder"
+    no_results_service_message: "a different search for articles from placeholder"
+    loaded_link: "http://www.mysite.com/"
+    no_results_link: "http://www.mysite.com/"
+
