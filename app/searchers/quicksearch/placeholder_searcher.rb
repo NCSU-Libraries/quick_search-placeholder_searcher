@@ -1,5 +1,5 @@
-module Quicksearch
-  class PlaceholderSearcher < Quicksearch::Searcher
+module QuickSearch
+  class PlaceholderSearcher < QuickSearch::Searcher
 
     def search
       true

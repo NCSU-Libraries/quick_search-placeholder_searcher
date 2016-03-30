@@ -6,7 +6,7 @@ require "quicksearch_placeholder_searcher/version"
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = "quicksearch_placeholder_searcher"
-  s.version     = QuicksearchPlaceholderSearcher::VERSION
+  s.version     = QuickSearchPlaceholderSearcher::VERSION
   s.authors     = ["Kevin Beswick"]
   s.email       = ["kdbeswic@ncsu.edu"]
   s.homepage    = "http://search.lib.ncsu.edu"

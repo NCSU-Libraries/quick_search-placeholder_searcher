@@ -1,7 +1,7 @@
 require 'test_helper'
 
-class QuicksearchPlaceholderSearcherTest < ActiveSupport::TestCase
+class QuickSearchPlaceholderSearcherTest < ActiveSupport::TestCase
   test "truth" do
-    assert_kind_of Module, QuicksearchPlaceholderSearcher
+    assert_kind_of Module, QuickSearchPlaceholderSearcher
   end
 end

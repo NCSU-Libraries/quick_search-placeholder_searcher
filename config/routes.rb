@@ -1,2 +1,2 @@
-QuicksearchPlaceholderSearcher::Engine.routes.draw do
+QuickSearchPlaceholderSearcher::Engine.routes.draw do
 end
