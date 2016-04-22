@@ -1,4 +1,4 @@
 # desc "Explaining what the task does"
-# task :quicksearch_placeholder_searcher do
+# task :quick_search_placeholder_searcher do
 #   # Task goes here
 # end
