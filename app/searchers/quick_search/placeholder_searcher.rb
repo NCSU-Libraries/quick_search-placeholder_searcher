@@ -9,28 +9,28 @@ module QuickSearch
       @results_list = []
 
       @results_list << OpenStruct.new(
-        :title => "Some Title",
-        :link => "http://www.something.com",
-        :author => "Some Author"
+        :title => "QuickSearch Project Page",
+        :link => "https://lib.ncsu.edu/reports/quicksearch",
+        :author => "QuickSearch"
       )
 
       @results_list << OpenStruct.new(
-        :title => "A Good Resource",
-        :link => "http://www.asdf.com",
-        :author => "Good Author"
+        :title => "QuickSearch GitHub",
+        :link => "https://github.com/ncsu-libraries/quick_search",
+        :author => "QuickSearch Team"
       )
 
       @results_list << OpenStruct.new(
-        :title => "Another Title",
-        :link => "http://www.anothertitle.com",
-        :author => "Another Author"
+        :title => "NCSU Libraries",
+        :link => "https://lib.ncsu.edu",
+        :author => "NCSU Libraries"
       )
 
       @results_list
     end
 
     def loaded_link
-      "http://www.mysite.com/"
+      "https://lib.ncsu.edu/"
     end
 
   end

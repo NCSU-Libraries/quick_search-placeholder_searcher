@@ -6,6 +6,6 @@ en:
     module_callout: "Search for articles from placeholder"
     error_service_message: "searching articles from placeholder"
     no_results_service_message: "a different search for articles from placeholder"
-    loaded_link: "http://www.mysite.com/"
-    no_results_link: "http://www.mysite.com/"
+    loaded_link: "https://lib.ncsu.edu/"
+    no_results_link: "https://lib.ncsu.edu/"
 
